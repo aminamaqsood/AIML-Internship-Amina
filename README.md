@@ -1,6 +1,6 @@
 # AIML-Internship-Amina
 Workspace for the AI/ML Internship Program — tasks, labs, and projects completed weekly.
-# AIML-Internship-Amna
+
 
 Hi, I'm Amna Maqsood — a 5th-semester BS Software Engineering student at COMSATS University Islamabad (Vehari Campus), currently exploring AI/ML alongside my frontend engineering work.
 
